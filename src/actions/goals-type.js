@@ -18,9 +18,9 @@ export default async function goalsType(res) {
     if(!men && !women){
       response = "J'ai besoin de savoir si tu es un homme ou une femme."
     }else if(!bodySlim && !bodyMaintain && !moreMuscle){
-      response = "Veux tu gagner en masse, perdre du poids, ou simplement rester en forme ? :)"
+      response = "Veux tu gagner en masse musculaire, perdre du poids, ou simplement rester en forme ? :)"
     }else{
-      response = "J'ai toutes les informations qu'il me faut ! Veux-tu faire de l'exercice ? Ou préfères-tu une idée de recette ?"
+      response = "J'ai toutes les informations qu'il me faut ! Veux-tu faire de l'exercice ? Ou préfères-tu une idée de repas ?"
     }
 
     replies.push(formatter.formatMsg(response))

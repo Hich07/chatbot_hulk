@@ -241,7 +241,7 @@ export default async function dietType(res, payload) {
                         urlImage: 'https://www.papillesetpupilles.fr/wp-content/uploads/2012/06/Salade-Cesar-au-poulet-et-%C3%A0-lavocat-du-P%C3%A9rou.jpg'
                     },
                     {
-                        name: 'Le plan dietétique',
+                        name: 'Le plan diététique',
                         urlVideo: 'https://www.youtube.com/watch?v=hzGDJFdAaGY',
                         urlImage: 'http://25.media.tumblr.com/50b2f701a59e0cec6fa82f164c8b03a3/tumblr_mzthetV6hc1rzwdbxo1_500.jpg'
                     },
